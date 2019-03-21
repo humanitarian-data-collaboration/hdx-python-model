@@ -17,5 +17,5 @@ To run the python notebook, follow the instructions below:
 5) [Install Scikit](https://scikit-learn.org/stable/install.html)
 6) Make sure that your directory includes the training dataset 'headertag_fulldataset.xlsx', which includes the pruned data of all the tagged datasets in HDX as of 3/15/2019. 
 7) Make sure to have the correct parameters for the model given in the first cell of the python file: <br />
-    a)create_dataset (default: False) - boolean to determine whether the user want to download from HDX database vs. pre-loaded excel file <br />
-    b)SAMPLE_NUMBER_OF_DATASETS (default: 150) - number of training datasets to scrape from HDX database 
+    a) create_dataset (default: False) - boolean to determine whether the user want to download from HDX database vs. pre-loaded excel file <br />
+    b) SAMPLE_NUMBER_OF_DATASETS (default: 150) - number of training datasets to scrape from HDX database 
