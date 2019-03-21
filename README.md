@@ -8,7 +8,7 @@ To run the python notebook, follow the instructions below:
 
 1) [Install HDX Python Library](https://github.com/OCHA-DAP/hdx-python-api)
 2) [Install nltk](https://www.nltk.org/install.html)
-3) Install fastText:
+3) Install fastText: <br />
     a) git clone https://github.com/facebookresearch/fastText.git <br />
     b) cd fastText <br />
     c) pip install . <br />
