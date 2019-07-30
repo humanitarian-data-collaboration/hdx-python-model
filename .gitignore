@@ -1,0 +1,9 @@
+.venv
+datasets
+.ipynb_checkpoints
+errors.log
+wiki.en.bin
+predicted_tags*
+processed_input*
+top_three_predicted*
+~$*
