@@ -1,4 +1,5 @@
 .venv
+.vscode
 datasets
 .ipynb_checkpoints
 errors.log
